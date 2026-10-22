@@ -4,7 +4,7 @@
 git config --global user.name "Ashlyn M. Kern"
 git config --global user.email "kernda3@gmail.com"
 ```
-
+Welcome to my GitHub profile!
 # Hi there, I'm Ashlyn Kern!
 
 I'm a Computer Science student at Newberry College interested in technology, problem-solving, and finding useful ways to work with data.
@@ -57,3 +57,4 @@ Outside of programming, I enjoy reading and writing, cooking and baking, and spe
 
 
 Thanks for visiting my profile! Let's get in touch!
+
