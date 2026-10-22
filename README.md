@@ -36,6 +36,7 @@ A programming project focused on helping users explore travel options through a 
 ### HR Policy Chatbot
 A Python chatbot that looks up human resources policy information using keywords and a CSV file.
 
+Thank you for checking out my projects! 
 ## Career Interests and Goals
 
 I'm interested in finding ways to combine computer science with data and healthcare. Some fields I'd like to explore include:
